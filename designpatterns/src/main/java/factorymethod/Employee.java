@@ -1,4 +1,4 @@
-package chapter2.factorymethod;
+package factorymethod;
 
 import lombok.Data;
 import lombok.AllArgsConstructor;

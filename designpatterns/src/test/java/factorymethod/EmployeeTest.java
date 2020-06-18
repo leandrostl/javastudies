@@ -1,4 +1,4 @@
-package chapter2.factorymethod;
+package factorymethod;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
